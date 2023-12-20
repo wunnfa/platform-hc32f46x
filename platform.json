@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/shadow578/platform-hc32f46x.git"
+    "url": "https://github.com/wunnfa/platform-hc32f46x.git"
   },
   "frameworks": {
     "ddl": {
@@ -37,7 +37,7 @@
     },
     "framework-arduino-hc32f46x": {
       "type": "framework",
-      "version": "https://github.com/shadow578/framework-arduino-hc32f46x.git"
+      "version": "https://github.com/wunnfa/framework-arduino-hc32f46x.git"
     },
     "framework-hc32f46x-ddl": {
       "type": "framework",
